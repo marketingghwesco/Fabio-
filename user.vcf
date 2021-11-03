@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Wilian;Santos;;;
-FN: Santos  Wilian 
+N:Fabio;Silva;;;
+FN: Silva  Fabio 
 ORG:GH Wesco;
-TITLE:Comercial,
-EMAIL;type=INTERNET;type=WORK;type=pref:wilian.santos@ghwesco.com.br
-TEL;type=WORK;type=VOICE:011 96352 1001
+TITLE:Pré Vendas,
+EMAIL;type=INTERNET;type=WORK;type=pref:fabio.silva@ghwesco.com.br
+TEL;type=WORK;type=VOICE:011 95695 1976
 item1.ADR;type=WORK;type=pref:;;Machado Bitencourt, 361\, Vila Clementino;;;;São Paulo
 item1.X-ABADR:sg
 item2.URL;type=pref:ghwesco.com.br
